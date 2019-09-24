@@ -1,0 +1,34 @@
+139免费电话源码：
+http://192.168.203.237/hefx/callFront_jq.git
+
+jenkins：http://192.168.203.148:8088         
+-谭健青-web-jqh5
+
+测试线：http://mywxtest.zone139.com/miyoufm/h5?
+正式：https://rcsoa-my.zone139.com:10285/hfxCall/index.html
+
+MM免费电话源码：http://192.168.203.237/hefx/fxmm-mulitiPhone.git
+
+jenkins：http://192.168.203.148:8088         
+-谭健青-web-hfh5Call 
+
+测试线：http://mywxtest.zone139.com/hfh5Call
+
+同事圈：http://192.168.203.250:7070/summary/RCSMatrix.WEB.colleague.git
+
+黑板报：http://192.168.203.250:7070/tree/feixin%2Fweb.blackboard.git
+
+
+MM免费电话源码：http://192.168.203.237/hefx/fxmm-mulitiPhone.git
+
+jenkins：http://192.168.203.148:8088         
+
+-web-hfh5Call 
+
+预生产：http://mywxtest.zone139.com/hfh5Call
+
+预生产上   http://mywxtest.zone139.com/hfh5Call/index.html
+只有这个网址能一键登录
+
+正式 ：http://mywx.zone139.com/hfh5Call/index.html
+
